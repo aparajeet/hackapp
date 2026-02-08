@@ -1,11 +1,20 @@
 
   # Dynamic Educational Website
+# Read Me
 
-  This is a code bundle for Dynamic Educational Website. The original project is available at https://www.figma.com/design/v8B0B6eSfmJ5wE1TIxUAZX/Dynamic-Educational-Website.
+Welcome to **[Your Website Name]**, your online hub for learning and growth. This page will help you understand the purpose, features, and usage of our platform.  
 
-  ## Running the code
+## Purpose  
+**[Your Website Name]** is designed to provide students, educators, and lifelong learners with a seamless and interactive learning experience. Our goal is to make education accessible, engaging, and effective for everyone.  
 
-  Run `npm i` to install the dependencies.
+## Features  
+- **Courses & Tutorials:** Access a variety of subjects with structured lessons.  
+- **Interactive Quizzes:** Test your understanding with instant feedback.  
+- **Progress Tracking:** Keep track of completed courses and learning milestones.  
+- **Resource Library:** Downloadable study materials and references.  
+- **Community Forum:** Discuss, collaborate, and ask questions with other learners.  
 
-  Run `npm run dev` to start the development server.
+## How to Use  
+1. **Sign Up / Log In:** Create an account to save your progres
+
   
